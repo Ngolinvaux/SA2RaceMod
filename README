@@ -1,0 +1,9 @@
+1. Download the SA2RaceMod.7z from the assets in the 'Releases' Tab
+2. Extract the folder to your Sa2 Mods Folder 
+3. Run options.exe to change emerald color
+4. Open modloader and click configure to see options
+  4a. If you are racing and want the same RNG but not know what it is, set 'Set Race Seed' to True and pick a seed number.
+  4b. If you want to pick each stage's sets leave "Set Race Seed' false and proceed to pick any set youd like for each stage.
+    4b1. Included is the 1024 set numbers [0 will not work, sorry] 
+    4b2. Also included is a file of the default sets and some other common sets from previous race mod versions, feel free to add your own notes in there.
+5. Enjoy, note sets are only set on stage load so deaths and restarts will not keep your set.
